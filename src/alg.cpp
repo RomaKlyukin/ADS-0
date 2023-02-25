@@ -2,7 +2,7 @@
 
 int gcd(int a, int b) {
  int x, y, sc, r, gcd;
- if (a < 0) 
+ if (a < 0)
   a = -a;
  if (b < 0)
   b = -b;
