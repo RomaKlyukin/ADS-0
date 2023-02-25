@@ -24,6 +24,5 @@ int gcd(int a, int b) {
 		y = r;
 	}
 	while(r!=0);
-
 	return gcd;
 }
